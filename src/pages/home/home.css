@@ -1,0 +1,16 @@
+.inputContainer{ 
+  margin:30px 80px 0px 80px;
+  width: auto;
+ 
+}
+.todoHeading{
+  text-align: center;
+  margin-top: 20px;
+}
+.hideHomeContainer{
+  opacity: 0.5;
+}
+.empty{
+  text-align: center;
+  color: red;
+}

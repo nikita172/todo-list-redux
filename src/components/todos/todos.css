@@ -1,0 +1,9 @@
+.todosContainer{
+  margin:0px 80px 20px 80px;
+}
+.btn-danger{
+  margin-right: 10px;
+}
+.buttonContainer{
+  display: flex;
+}
